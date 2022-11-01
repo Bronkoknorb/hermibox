@@ -14,6 +14,6 @@ Test out reading a tag:
 
     python3 read.py
 
-Test out reading just the id of a tag (certain tags give me an Auth error when trying to read/write text, but the reading just the id works fine):
+Test out reading just the id of a tag (certain tags give me an Auth error when trying to read/write text, but reading just the id works fine):
 
     python3 read_id.py
