@@ -28,6 +28,8 @@ Test out reading just the id of a tag (certain tags give me an Auth error when t
 
 # GPIO (Button) configuration
 
-According to: https://github.com/MiczFlor/RPi-Jukebox-RFID/blob/develop/components/gpio_control/README.md
+According to: [Using GPIO hardware buttons](https://github.com/MiczFlor/RPi-Jukebox-RFID/wiki/Using-GPIO-hardware-buttons)
 
 My settings: [gpio_settings.ini](gpio_settings.ini)
+
+Note that I am using version 2 of the Phoniebox software (RPi-Jukebox-RFID), not the newer version 3.
