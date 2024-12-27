@@ -8,6 +8,7 @@ This is my build of a [Phoniebox](https://phoniebox.de/) using a Raspberry Pi.
 
 * Police bus: [small foot 11459 Großer Polizeibus aus Holz](https://amzn.eu/d/8CYERZg)
 * Raspberry Pi: I used a Raspberry Pi 3 model B
+* RFID Module: [RC522](https://de.aliexpress.com/item/32672212005.html)
 * Speakers: [Audiocore AC870 Kompakt Stereo-Lautsprecher 2.0 PC 2x3 Watt RMS](https://amzn.eu/d/bMhVWlB)
 * Sound card: [JSAUX USB A auf 3.5mm Klinke Aux Adapter](https://amzn.eu/d/9CCRulK)
 * Wooden figures: [Egurs Holzfiguren 10 Stück 75mm DIY Figuren](https://amzn.eu/d/erieEHS)
