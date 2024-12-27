@@ -11,6 +11,9 @@ This is my build of a [Phoniebox](https://phoniebox.de/) using a Raspberry Pi.
 * Speakers: [Audiocore AC870 Kompakt Stereo-Lautsprecher 2.0 PC 2x3 Watt RMS](https://amzn.eu/d/bMhVWlB)
 * Sound card: [JSAUX USB A auf 3.5mm Klinke Aux Adapter](https://amzn.eu/d/9CCRulK)
 * Wooden figures: [Egurs Holzfiguren 10 Stück 75mm DIY Figuren](https://amzn.eu/d/erieEHS)
+* NFC tags: [NFC Ntag215 Münze TAG Schlüssel 13,56 MHz 215 Kartenetikett RFID Ultraleichte Tags Etiketten 25 mm Durchmesser](https://de.aliexpress.com/item/1005002714885621.html)
+* Buttons with LED: [LANBOO 16mm 1NO1NC 5Pin schwarz kunststoff push button switch mit LED 12V24V220V](https://de.aliexpress.com/item/4000350958846.html)
+* Akku: USB Powerbank (10000mAh)
 
 ## Test RFID Reader
 
