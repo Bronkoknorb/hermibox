@@ -4,6 +4,8 @@ This is my build of a [Phoniebox](https://phoniebox.de/) using a Raspberry Pi.
 
 ![Hermibox Photo](/photos/photo.jpg)
 
+<img src="/photos/photo2.jpg" width="180"> <img src="/photos/photo3.jpg" width="180"> <img src="/photos/photo4.jpg" width="180"> <img src="/photos/photo5.jpg" width="180"> <img src="/photos/photo6.jpg" width="180">
+
 ## Shopping list
 
 * Police bus: [small foot 11459 Großer Polizeibus aus Holz](https://amzn.eu/d/8CYERZg)
