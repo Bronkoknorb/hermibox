@@ -2,7 +2,7 @@
 
 This is my build of a [Phoniebox](https://phoniebox.de/) using a Raspberry Pi.
 
-![Hermibox Photo](/photo.jpg)
+![Hermibox Photo](/photos/photo.jpg)
 
 ## Shopping list
 
